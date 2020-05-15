@@ -2,6 +2,7 @@
 This module reads pdb files.
 """
 
+import os
 import numpy as np
 
 def open_pdb(f_loc):

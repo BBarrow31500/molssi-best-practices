@@ -3,6 +3,7 @@ This module reads and writes xyz files.
 """
 
 import os
+import numpy as np
 
 def open_xyz(file_location):
     
