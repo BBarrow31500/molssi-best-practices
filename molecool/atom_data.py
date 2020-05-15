@@ -1,3 +1,7 @@
+"""
+This module contains atomic properties.
+"""
+
 atomic_weights = {
     'H': 1.00784,
     'C': 12.0107,
